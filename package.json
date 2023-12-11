@@ -1,0 +1,18 @@
+{
+  "name": "cmdhelper",
+  "version": "1.0.0",
+  "bin": "./bin/cmdHelper.js",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suraj Kumar Jha",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^11.1.0",
+    "configstore": "^5.0.0",
+    "inquirer": "^8.0.0"
+  }
+}
